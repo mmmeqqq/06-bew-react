@@ -5,7 +5,7 @@ const Owner = () => {
     <div>
       <h1>Bew</h1>
       <img src="" alt="" />
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore commodi aliquam iste sit a! Esse reiciendis amet harum ut veniam sequi consequuntur, officia architecto soluta labore, nam unde laborum magnam?</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore commodi aliquam iste sit a! Esse reiciendis amet harum ut veniam sequi consequuntur, officia architecto soluta labore, nam unde laborum magnam?66666</p>
     </div>
   )
 }
